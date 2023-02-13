@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Springboot-Microservices.iml" filepath="$PROJECT_DIR$/.idea/Springboot-Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventoryservice/inventoryservice.iml" filepath="$PROJECT_DIR$/inventoryservice/inventoryservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/order_service/order_service.iml" filepath="$PROJECT_DIR$/order_service/order_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Product-Service/product-service.iml" filepath="$PROJECT_DIR$/Product-Service/product-service.iml" />
     </modules>
